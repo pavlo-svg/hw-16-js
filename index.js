@@ -40,7 +40,7 @@ class User {
   }
 }
 
-const mango = new User({
+const mang = new User({
   name: "Mango",
   age: 2,
   followers: 20,
@@ -48,7 +48,7 @@ const mango = new User({
 
 mango.getInfo(); // User Mango is 2 years old and has 20 followers
 
-const poly = new User({
+const pol = new User({
   name: "Poly",
   age: 3,
   followers: 17,
